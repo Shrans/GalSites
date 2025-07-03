@@ -39,7 +39,7 @@ def content_extractor():
             line = line.strip()
 
             # 检测章节标题
-            if line.startswith("### ") and "787128349" not in line:
+            if line.startswith("### "):
                 if in_table:  # 处理上一个未完成的表格
                     process_table(table_buffer, sections[current_section])
                     table_buffer = []
