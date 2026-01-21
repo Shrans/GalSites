@@ -32,7 +32,7 @@
 | Angelmoe     | https://www.angelmoe.com/              | [地址发布页](https://sway.cloud.microsoft/zq6TBTswVTEokPF3?ref=Link)                            | 需登录        |
 | GALBase      | https://galbase.top/                   | [地址发布页](https://home.galbase.top/)                                                         |            |
 | Galgamex     | https://www.galgamex.net/              | -                                                                                          | -          |
-| Galgame聚合搜索  | https://searchgal.homes/               | [GitHub](https://github.com/Jurangren/SearchGal)                                           | -          |
+| Galgame聚合搜索  | https://searchgal.homes/               | [GitHub](https://github.com/Moe-Sakura/SearchGal)                                          | -          |
 | Galgame月谣    | https://www.sayafx.vip/                | [GitHub](https://github.com/Moonpsalms-org) \| [网盘页面](https://cloud.sayafx.top/)           | -          |
 | GAL图书馆       | https://gallibrary.pw/                 | -                                                                                          | -          |
 | GGBases      | https://www.ggbases.com/               | [地址发布页](https://gitlab.com/ggbases/address)                                                | 磁链为主       |
@@ -50,7 +50,7 @@
 | YuliGames    | https://mihoyo.ink/                    | -                                                                                          | -          |
 | 次元茶馆         | https://www.cycg.xyz/                  | [网盘页面](https://pan.cycg.xyz/)                                                              | 需登录 \| 需回复 |
 | 稻荷GAL        | https://inarigal.com/                  | -                                                                                          | -          |
-| 宮代千紗         | https://gdqs.org/                      | [地址发布页](https://gdqs.moe/)                                                                 | 需登录        |
+| 宮代千紗         | https://gdqs.org/                      | -                                                                                          | 需登录        |
 | 玖黎ACG        | https://feiyuwan.top/                  | -                                                                                          | 需登录 \| 需回复 |
 | 鲲Galgame     | https://www.kungal.com/                | [地址发布页](https://nav.kungal.org/) \| [GitHub](https://github.com/KUN1007/kun-galgame-nuxt3) | -          |
 | 朗月天明         | https://tuki.top/                      | -                                                                                          | 移动端资源为主    |
