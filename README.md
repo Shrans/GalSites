@@ -38,6 +38,7 @@
 | GGBases      | https://www.ggbases.com/               | [地址发布页](https://gitlab.com/ggbases/address)                                                | 磁链为主       |
 | KisuGal      | https://kisugal.org/                   | -                                                                                          | 需回复        |
 | LyCorisGal   | https://www.lycorisgal.com/            | [GitHub](https://github.com/ArisuMika520/kun-lycorisgal-next)                              | -          |
+| MikuGame     | https://mikugame.icu/                  | -                                                                                          | -          |
 | My Galgame   | https://www.ttloli.com/                | [地址发布页](https://www.mmgal.com/)                                                            | -          |
 | NekoGAL      | https://www.nekogal.com/               | -                                                                                          | 需登录 \| 需回复 |
 | Nysource     | https://res.nyne.dev/                  | [GitHub](https://github.com/KUN1007/kun-touchgal-next)                                     | -          |
@@ -64,7 +65,6 @@
 | 四叶草与雏菊的GAL小站 | https://g.杏铃.top                       | -                                                                                          | 需登录 \| 需回复 |
 | 小鳥遊暁の会员制餐厅   | https://t-satoru.top/                  | -                                                                                          | 仅移动端资源     |
 | 真红小站         | https://shinnku.com/                   | [GitHub](https://github.com/shinnku-nikaidou/upset-gal-web)                                | -          |
-| 梓澪の妙妙屋       | https://zi0.cc/                        | -                                                                                          | -          |
 | 紫缘社          | https://www.galzy.eu.org/              | -                                                                                          | -          |
 
 ### Telegram频道
@@ -89,6 +89,7 @@
 | 莫邪游戏资源网    | https://xiuren.cyou/      |
 | VNDL       | https://www.galrc.eu.org/ |
 | 羽ACG       | https://seve.yugal.cc/    |
+| 梓澪の妙妙屋     | https://zi0.cc/           |
 
 
 ## 📅更新日志
