@@ -68,28 +68,33 @@
 | 紫缘社          | https://www.galzy.eu.org/              | -                                                                                          | -          |
 
 ### Telegram频道
-| **站点名称**             | **链接**                          |
-|----------------------|---------------------------------|
+| **站点名称**         | **链接**                        |
+| :------------------- | :------------------------------ |
 | Visual Novel Channel | https://t.me/VisualNovelChannel |
-| 半夏残风                 | https://t.me/BBanxia            |
-| 黄油联盟                 | https://t.me/GalLeaguebot       |
-| 莱茵图书馆                | https://t.me/RhineLibrary       |
+| 半夏残风             | https://t.me/BBanxia            |
+| 黄油联盟             | https://t.me/GalLeaguebot       |
+| 莱茵图书馆           | https://t.me/RhineLibrary       |
+| 夏轩阁               | https://t.me/xiayuge            |
 
 ### 英灵殿
-| **站点名称**   | **链接**                    |
-|------------|---------------------------|
-| 宁宇资源站      | https://ningyu.ga/        |
-| GalWorld   | https://acgngame.top/     |
-| GalX次元     | http://223323.xyz/        |
-| 莉莉絲の遊戲原盤倉庫 | https://sakakirio.com/    |
-| 穹之下        | https://www.soraacg.com/  |
-| 姬路白雪の资源小站  | https://pan.jlbx.xyz/     |
-| 神隐之乡       | https://syzx.me/          |
-| 烟郁Galgame  | https://yanyugal.top/     |
-| 莫邪游戏资源网    | https://xiuren.cyou/      |
-| VNDL       | https://www.galrc.eu.org/ |
-| 羽ACG       | https://seve.yugal.cc/    |
-| 梓澪の妙妙屋     | https://zi0.cc/           |
+| **站点名称**   | **链接**                    |**备注**                    |
+| :----------------- | :------------------------------ | :---------------------- |
+| 宁宇资源站         | https://ningyu.ga/              |                         |
+| GalWorld           | https://acgngame.top/           |                         |
+| GalX次元           | http://223323.xyz/              |                         |
+| 莉莉絲の遊戲原盤倉庫 | https://sakakirio.com/        |                         |
+| 穹之下             | https://www.soraacg.com/        |                         |
+| 姬路白雪の资源小站 | https://pan.jlbx.xyz/           |                         |
+| 神隐之乡           | https://syzx.me/                |                         |
+| 烟郁Galgame        | https://yanyugal.top/           |                         |
+| 莫邪游戏资源网     | https://xiuren.cyou/            |                         |
+| VNDL               | https://www.galrc.eu.org/       |                         |
+| 羽ACG              | https://seve.yugal.cc/          |                         |
+| 梓澪の妙妙屋       | https://zi0.cc/                 |                         |
+| 夏轩阁             | https://xiayuge.top/            | https://t.me/xiayuge 仍开放 |
+| 樱刻春影           | https://www.galgame.ink/        |                         |
+| 西琳次元           | https://www.xilinciyua.cc/      |                         |
+| 莫邪ACG            | https://moyegalga.me/tag/krkr/  |                         |
 
 
 ## 📅更新日志
