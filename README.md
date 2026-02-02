@@ -66,6 +66,14 @@
 | 小鳥遊暁の会员制餐厅   | https://t-satoru.top/                  | -                                                                                          | 仅移动端资源     |
 | 真红小站         | https://shinnku.com/                   | [GitHub](https://github.com/shinnku-nikaidou/upset-gal-web)                                | -          |
 | 紫缘社          | https://www.galzy.eu.org/              | -                                                                                          | -          |
+| ACGBUSTER藏宝库       | https://www.acgcbk11.com/                | -                                                                                                 | -                |
+| ACG愿望               | https://acgyw.xyz/                       | -                                                                                                 | -                |
+| 维咔VikACG            | https://www.vikacg.com/post              | -                                                                                                 | -                |
+| ACG嘤嘤怪             | https://acgyyg.ru/                       | -                                                                                                 | -                |
+| ACGKnow               | https://acgknow.me/                      | -                                                                                                 | -                |
+| GGS Visual Novel      | https://gal.saop.cc/                     | -                                                                                                 | -                |
+| 唯のVN档案馆          | https://yinghu.netlify.app/              | -                                                                                                 | -                |
+| わふわふ              | https://wafuwafu.com/                    | -                                                                                                 | -                |
 
 ### Telegram频道
 | **站点名称**             | **链接**                          |
@@ -90,7 +98,21 @@
 | VNDL       | https://www.galrc.eu.org/ |
 | 羽ACG       | https://seve.yugal.cc/    |
 | 梓澪の妙妙屋     | https://zi0.cc/           |
-
+| 夏轩阁             | https://xiayuge.top/            |
+| 樱刻春影           | https://www.galgame.ink/        |
+| 西琳次元             | https://www.xilinciyua.cc/        |
+| 忧郁的loli           | https://www.ttloli9.com/          |
+| GalGame藏经阁        | https://www.galgameacgjohn.top/   |
+| ACG资源网            | https://www.acgnzy.com/           |
+| ACG异世界            | https://iacg.world/               |
+| 落樱之时             | https://loliacg.xyz/              |
+| yuanmeng             | https://yuanmeng.sdos.top         |
+| 宅方社               | https://www.zfsya.com/            |
+| 好GAL                | https://www.haogal.com/           |
+| wobbay               | https://www.wobbay.xyz/           |
+| Puppet Studio        | https://1ov3.top/                 |
+| gal研究部            | https://galccg.com/               |
+| GALXP                | https://www.galxp.com/            |
 
 ## 📅更新日志
 见[更新日志](更新日志.md)
