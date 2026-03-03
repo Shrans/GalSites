@@ -30,37 +30,66 @@ class SiteChecker:
 
     def _parse_readme(self) -> Dict[str, Dict[str, str]]:
         """
-        从 Markdown 文件中解析出章节和站点信息。
-        :return: 一个字典，键是章节名，值是包含站点名和URL的字典。
+        从 Markdown 文件中解析出站点列表章节下的栏目和站点信息。
+        只解析名称包含“站点列表”的二级标题下的三级标题内容。
         """
         sections = {}
         current_section_name = None
         in_table = False
+        in_site_list_section = False  # 是否处于“站点列表”大章节内
 
         try:
             with open(self.readme_path, "r", encoding="utf-8") as f:
                 for line in f:
                     line = line.strip()
-                    # 检测章节标题
-                    if line.startswith("### "):
+
+                    # 检测二级标题
+                    if line.startswith("## "):
+                        # 如果标题包含“站点列表”则开始解析
+                        if "站点列表" in line:
+                            in_site_list_section = True
+                        else:
+                            in_site_list_section = False
+
+                        # 重置当前栏目状态
+                        current_section_name = None
+                        in_table = False
+                        continue
+
+                    # 只有在“站点列表”章节内才解析三级标题
+                    if in_site_list_section and line.startswith("### "):
                         current_section_name = line[4:].strip()
                         sections[current_section_name] = {}
-                    # 检测表格内容
-                    elif current_section_name and line.startswith("|") and "---" not in line and "站点名称" not in line:
-                        columns = [col.strip() for col in line.split('|') if col.strip()]
+                        in_table = False
+                        continue
+
+                    # 解析表格内容（必须在目标章节内）
+                    if (
+                            in_site_list_section
+                            and current_section_name
+                            and line.startswith("|")
+                            and "---" not in line
+                            and "站点名称" not in line
+                    ):
+                        columns = [col.strip() for col in line.split("|") if col.strip()]
                         if len(columns) < 2:
                             continue
 
                         name = columns[0]
                         url_cell = columns[1]
-                        # 正则匹配Markdown链接格式 [text](url)
+
+                        # 匹配 Markdown 链接
                         url_match = re.search(r'\[.*?]\((.*?)\)', url_cell)
                         url = url_match.group(1) if url_match else url_cell
+
                         sections[current_section_name][name] = url
+
             return sections
+
         except FileNotFoundError:
             self.console.print(
-                f"[bold red]错误：找不到文件 '{self.readme_path}'。请确保该文件与脚本在同一目录下。[/bold red]")
+                f"[bold red]错误：找不到文件 '{self.readme_path}'。请确保该文件与脚本在同一目录下。[/bold red]"
+            )
             exit()
 
     def _select_sections(self) -> List[Dict[str, str]]:
