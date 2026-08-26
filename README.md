@@ -70,6 +70,7 @@
 | 真红小站              | https://shinnku.com/                   | [GitHub](https://github.com/shinnku-nikaidou/upset-gal-web)                                     | -                      |
 | 梓澪の妙妙屋          | http://zi0.cc/                         | -                                                                                               | -                      |
 | 紫缘社                | https://galzy.moe/                     | -                                                                                               | -                      |
+| v2dao 资源分享站      | https://www.v2dao.com/                 | [v2dao.online](https://v2dao.online/) \| [v2dao.link](https://v2dao.link/)                      | -                      |
 
 ### Telegram频道
 | **站点名称**         | **链接**                        |
